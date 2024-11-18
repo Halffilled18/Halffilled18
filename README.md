@@ -3,11 +3,11 @@
 </div>
 
 <h3>ABOUT ME</h3>
-I'm a versatile developer, with experience in building web platforms.<br>
+I'm a versatile developer, with experience in building web platforms and IoT Communication Devices, (Learning ML currently).<br>
 I like accessibility, performance, and robust code. In addition, I also like to help and communicate as much as I can. I usually answer questions or solve some issues on GitHub, Stack Overflow, or on tech communities because that not only helps others, but also helps me.
 
 <h3>EXPERIENCE</h3>
-I've experience working in a private company and as a freelancer. I've spent most of my time as a developer with the following stacks:
+I've experience working in a private company and as a SDE. I've spent most of my time as a developer with the following stacks:
 <ul>
    <li><img src="https://img.shields.io/badge/Python | JavaScript-Full--stack-white?labelColor=black" alt="Full-stack with Python and JavaScript"> <img src="https://img.shields.io/badge/-Django -- Celery -- Heroku-grey" alt="Django, Celery and Heroku"></li>
    <li><img src="https://img.shields.io/badge/Python | JavaScript-Full--stack-white?labelColor=black" alt="Full-stack with Python and JavaScript"> <img src="https://img.shields.io/badge/-Frappe -- MariaDB -- Docker-grey" alt="Frappe, MariaDB and Docker"></li>
