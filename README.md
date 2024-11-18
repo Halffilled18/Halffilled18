@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="![Black and White Modern Photography LinkedIn Banner Art (2)](https://github.com/user-attachments/assets/1734637d-f871-46eb-ab7b-246da8b90402.png)" width="100%" alt="Banner">
+  <img src="![template](https://github.com/user-attachments/assets/8ef01d35-d874-4101-aa99-d94e11c5dc1b)" width="100%" alt="Banner">
 </div>
 
 <h3>ABOUT ME</h3>
