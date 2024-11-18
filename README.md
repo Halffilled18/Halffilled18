@@ -30,7 +30,7 @@ In general terms, I have 3 years of experience with the Python ecosystem and 1 w
 
 <p align="center">
   <br>
-  <a href="https://www.buymeacoffee.com/souravverma"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+  <a href="https://www.buymeacoffee.com/souravverma"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-purple.png" height="50" width="210" alt="aveek.saha" /></a>
 </p>
 
 
