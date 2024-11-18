@@ -14,6 +14,28 @@ I've experience working in a private company and as a SDE. I've spent most of my
    <li><img src="https://img.shields.io/badge/T ypeScript   |  S C  S S-Front--end-white?labelColor=black" alt="Front-end with TypeScript and SCSS"> <img src="https://img.shields.io/badge/-Next.js (React) -- Tailwind CSS-grey" alt="Next.js (React) and Tailwind CSS"></li>
 </ul>
 In general terms, I have 3 years of experience with the Python ecosystem and 1 with the TypeScript one.
+## 🛠️ Skills
+ 
+![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=git&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![bootstrap](https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![nodejs](https://img.shields.io/badge/Nodejs-000000?style=for-the-badge&logo=nodejs&logoColor=white)
+![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white)
+![mongodb](https://img.shields.io/badge/Mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
+
+## 📲🤙Connect with me!
+
+Portfolio: https://souravverma.vercel.app/index.html
+
+GitHub: https://github.com/Halffilled18
+
+LinkedIn: https://www.linkedin.com/in/sourav-verma-/
 
 <h3>MY FRIEND</h3>
 has a message for you...
